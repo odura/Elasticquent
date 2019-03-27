@@ -1,19 +1,19 @@
 {
-  "name": "elasticquent/elasticquent",
+  "name": "odura/elasticquent",
   "type": "library",
-  "description": "Maps Laravel Eloquent models to Elasticsearch types.",
+  "description": "Maps Laravel Eloquent models to Elasticsearch types forked from elasticquent/elasticquent.",
   "keywords": [
     "elasticsearch",
     "eloquent",
     "laravel"
   ],
-  "homepage": "https://github.com/elasticquent/Elasticquent",
+  "homepage": "https://github.com/odura/Elasticquent",
   "license": "MIT",
   "authors": [
     {
-      "name": "Adam Fairholm",
-      "email": "adam.fairholm@gmail.com",
-      "homepage": "http://adamfairholm.com"
+      "name": "Olivier Durand",
+      "email": "olivier.durand@odura.fr",
+      "homepage": "https://github.com/odura"
     }
   ],
   "require": {
